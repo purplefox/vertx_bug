@@ -1,4 +1,4 @@
-mport com.hazelcast.client.config.ClientConfig;
+import com.hazelcast.client.config.ClientConfig;
 import com.hazelcast.client.HazelcastClient;
 import com.hazelcast.core.HazelcastInstance;
 import com.hazelcast.core.MultiMap;
