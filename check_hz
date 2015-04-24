@@ -1,0 +1,4 @@
+#!/bin/bash
+export CLASSPATH=.:/opt/hazelcast/*:/opt/vert.x/lib/*
+javac Hz.java 
+java Hz
