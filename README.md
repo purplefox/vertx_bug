@@ -11,3 +11,5 @@ The video is an example of me running through a demonstration of the problem:
 7. (Bottom left window) Ctrl+C the Receiver.java running
 8. (Right most window) Use the Hazelcast tool to print the contents.  At this point you see that
    the handler that was just Ctrl+C (port 6667) remains in the list.
+
+Appologise for the crassness of the Hz.java but it was just for deubgging purposes :)
