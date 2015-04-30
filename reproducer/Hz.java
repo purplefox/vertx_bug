@@ -88,7 +88,7 @@ public class Hz {
     for ( String key : map.keySet() ){
       // Collection <String > values = map.get( key );
       // System.out.println( "%s -> %s\n", key, values );
-      System.out.println(key);
+      System.out.printf("%-35s", key);
       map.get(key);
       // Collection<ServerID> sid = map.get(key);
       System.out.println(map.get(key));
