@@ -1,4 +1,0 @@
-#!/bin/bash
-export CLASSPATH=.:./*:$VERTX_HOME/lib/*
-javac Hz.java
-java Hz
