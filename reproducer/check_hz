@@ -1,4 +1,4 @@
 #!/bin/bash
-export CLASSPATH=.:./*
+export CLASSPATH=.:./*:$VERTX_HOME/lib/*
 javac Hz.java
 java Hz

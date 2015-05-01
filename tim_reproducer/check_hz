@@ -1,0 +1,4 @@
+#!/bin/bash
+export CLASSPATH=.:./*:vert.x-2.1.6-SNAPSHOT/lib/*
+javac Hz.java
+java Hz
